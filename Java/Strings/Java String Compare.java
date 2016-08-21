@@ -27,5 +27,6 @@ class jsc
             max = s;
 	System.out.println(min);
 	System.out.println(max);
-}}
+	}
+}
 		
