@@ -49,6 +49,8 @@ class Student {
             return ss.str();
         }
 };
+
+/*predefined code starts*/
 int main() {
     int age, standard;
     string first_name, last_name;
