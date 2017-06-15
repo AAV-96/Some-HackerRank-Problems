@@ -4,7 +4,7 @@ problem : https://www.hackerrank.com/challenges/reduced-string
 import java.io.*;
 import java.util.*;
 
-public class superReducedString {
+public class SuperReducedString {
 
     public static void main(String[] args) {
  
