@@ -1,2 +1,2 @@
-# Some-HackerRank-Problems
-These are some of my problems solved on HackerRank, mostly done in Java.  Feel free to suggest better methods than those I've used. 
+# Some HackerRank Problems
+These are some of the problems I have solved on **_[HackerRank](http:hackerrank.com)_**. Feel free to suggest better methods than those I've used. 
