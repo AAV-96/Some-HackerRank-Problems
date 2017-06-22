@@ -13,6 +13,7 @@ public class Solution {
                 ctr++;
             }
         }*/
+        //counting the no. of zeroes
         while (n > 0) {
             ctr += (n%2 == 0)?1:0;
             n /= 2;
